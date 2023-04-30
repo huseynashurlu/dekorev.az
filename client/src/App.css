@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1,h2,h3,h4,h5,h6,p{
+  margin: 0;
+}
+
+@font-face {
+  font-family: Bold;
+  src: url(./assets/fonts/Quicksand-Bold.ttf);
+}
+
+@font-face {
+  font-family: Regular;
+  src: url(./assets/fonts/Quicksand-Regular.ttf);
+}
+
+@font-face {
+  font-family: Light;
+  src: url(./assets/fonts/Quicksand-Light.ttf);
+}
+
+a{
+  text-decoration: none;
+}
+
+input,button,textarea,select {
+  outline: none;
+}
+
+ul{
+  list-style: none;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+
+
+img,svg{
+  user-select: none;
+}

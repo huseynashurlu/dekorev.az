@@ -1,0 +1,29 @@
+@media (max-width:576px) {
+    .vip-box .box-top img{
+        height: 220px !important;
+    }
+    .sl-box{
+        display: none;
+    }
+    .cust-details{
+        margin-top: 20px;
+    }
+    .sw-filter .left{
+        display: none;
+    }
+    .sd-info {
+        flex-direction: column;
+    }
+    .store-looking{
+        margin-bottom: 10px !important;
+    }
+    .sd-right {
+        padding: 25px 0 0 !important;
+    }
+    .category-list {
+        display: none;
+    }
+    header{
+        display: none;
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Delphine Cane Velvet Accent Chair",
+            "category": "Mebel",
+            "image": "https://k4j3j2s7.rocketcdn.me/furnob/wp-content/uploads/2021/12/delphine3.jpg",
+            "price": 250,
+            "isVIP": true
+        },
+        {
+            "id": 2,
+            "title": "Delphine Cane Velvet Accent Chair",
+            "category": "Mebel",
+            "image": "https://k4j3j2s7.rocketcdn.me/furnob/wp-content/uploads/2021/12/chair-2.jpg",
+            "price": 250,
+            "isVIP": true
+        },
+        {
+            "id": 3,
+            "title": "Delphine Cane Velvet Accent Chair",
+            "category": "Mebel",
+            "image": "https://k4j3j2s7.rocketcdn.me/furnob/wp-content/uploads/2021/12/linea1.jpg",
+            "price": 250,
+            "isVIP": true
+        },
+        {
+            "id": 4,
+            "title": "Delphine Cane Velvet Accent Chair",
+            "category": "Mebel",
+            "image": "https://k4j3j2s7.rocketcdn.me/furnob/wp-content/uploads/2021/12/hay-1.jpg",
+            "price": 250,
+            "isVIP": true
+        },
+        {
+            "id": 5,
+            "title": "Delphine Cane Velvet Accent Chair",
+            "category": "Mebel",
+            "image": "https://k4j3j2s7.rocketcdn.me/furnob/wp-content/uploads/2021/12/delphine3.jpg",
+            "price": 250,
+            "isVIP": true
+        },
+        {
+            "id": 6,
+            "title": "Delphine Cane Velvet Accent Chair",
+            "category": "Mebel",
+            "image": "https://k4j3j2s7.rocketcdn.me/furnob/wp-content/uploads/2021/12/chair-2.jpg",
+            "price": 250,
+            "isVIP": true
+        },
+        {
+            "id": 7,
+            "title": "Delphine Cane Velvet Accent Chair",
+            "category": "Mebel",
+            "image": "https://k4j3j2s7.rocketcdn.me/furnob/wp-content/uploads/2021/12/linea1.jpg",
+            "price": 250,
+            "isVIP": true
+        },
+        {
+            "id": 8,
+            "title": "Delphine Cane Velvet Accent Chair",
+            "category": "Mebel",
+            "image": "https://k4j3j2s7.rocketcdn.me/furnob/wp-content/uploads/2021/12/hay-1.jpg",
+            "price": 250,
+            "isVIP": true
+        }
+    ]
+}

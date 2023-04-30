@@ -1,0 +1,132 @@
+
+#Product-details {
+    background-color: #fafcff;
+    padding: 1rem 0 4rem;
+  }
+  #Product-details .tab-details {
+    padding: 20px;
+    border: 1px solid #e6a247;
+    position: relative;
+    top: 7rem;
+  }
+  #Product-details .tab-details p {
+    font-family: Regular;
+  }
+  #Product-details .tab-details::before {
+    content: "Əlavə qeydlər";
+    position: absolute;
+    border-radius: 5px 5px 0 0;
+    top: -40px;
+    left: 0;
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    height: 39px;
+    color: #fff;
+    background-color: #e6a247;
+    align-items: center;
+    font-weight: bold;
+  }
+  #Product-details .pr-box {
+    background-color: #fff;
+    border-radius: 6px;
+    padding: 15px 15px 8rem;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+  #Product-details .pr-box .pr-img img {
+    width: 100%;
+  }
+  #Product-details .pr-box .pr-details {
+    font-family: HelveticaRegular;
+  }
+  #Product-details .pr-box .pr-details .pr-cat {
+    font-family: Bold;
+    font-size: 12px;
+  }
+  #Product-details .pr-box .pr-details .pr-name {
+    font-size: 25px;
+    font-family: Bold;
+  }
+  #Product-details .pr-box .pr-details hr {
+    margin: 10px 0;
+  }
+  #Product-details .pr-box .pr-details p {
+    margin: 0 0 5px;
+    font-size: 15px;
+  }
+  #Product-details .pr-box .pr-details p span {
+    color: #e6a247;
+    font-weight: bold;
+  }
+  #Product-details .pr-box .pr-details form {
+    margin-top: 15px;
+  }
+  #Product-details .pr-box .pr-details form button {
+    background-color: transparent;
+    border: 1px solid;
+    padding: 6px 13px 6px 8px;
+    font-size: 13px;
+    margin-right: 8px;
+    border-radius: 6px;
+    color: #fff;
+  }
+  #Product-details .pr-box .pr-details form button img {
+    height: 16px;
+  }
+  #Product-details .pr-box .cust-details .shop-cart-btn {
+    margin-top: 22px;
+  }
+  .shop-cart-btn button{
+    background-color: #e6a247;
+    color: #fff;
+    border: 1px solid #e6a247;
+    padding: 6px 53px;
+    border-radius: 4px;
+  }
+  #Product-details .pr-box .cust-details .price-sec {
+    border-bottom: 1px solid #c5c5c5;
+  }
+  #Product-details .pr-box .cust-details .price-sec .pr-price {
+    background-color: #e6a247;
+    color: #fff;
+    font-size: 20px;
+    display: inline-block;
+    padding: 3px 20px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    border-radius: 5px;
+  }
+  #Product-details .pr-box .cust-details ul {
+    list-style: none;
+    margin-top: 20px;
+  }
+  #Product-details .pr-box .cust-details ul li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 7px;
+  }
+  #Product-details .pr-box .cust-details ul li img {
+    height: 20px;
+  }
+  #Product-details .pr-box .cust-details ul li span {
+    padding-left: 8px;
+    font-size: 14px;
+    font-family: HelveticaRegular;
+  }
+  #Product-details .pr-box .cust-details ul li span span {
+    font-weight: bold;
+    color: #333e48;
+  }
+
+  .compare-btn button{
+    background-color: #333e48;
+    color: #fff;
+    font-family: Regular;
+    border-radius: 5px;
+    padding: 13px 60px;
+  }
+
+
+#Compare table tbody tr td{
+  width: calc(100%/6);
+}

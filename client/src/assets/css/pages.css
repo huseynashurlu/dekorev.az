@@ -1,0 +1,35 @@
+#Contact {
+    margin-top: 2rem;
+  }
+  #Contact .box {
+    margin-top: 20px;
+    text-align: center;
+    border: 1px solid #e6a247;
+    padding: 20px 0;
+    border-radius: 5px;
+  }
+  #Contact .box a, #Contact .box span {
+    display: block;
+    margin-top: 10px;
+    color: #3f3f3f;
+  }
+  #Contact .box img {
+    width: 18%;
+  }
+
+
+  
+#About {
+  margin: 2rem 0 0;
+}
+#About img {
+  width: 50%;
+}
+#About h3 {
+  font-size: 21px;
+  font-family: Bold;
+}
+#About p {
+  font-family: Regular;
+  font-size: 13px;
+}
